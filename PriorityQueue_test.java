@@ -2,7 +2,7 @@
  * PriorityQueue_test.java
  * This file contains tests for class PriorityQueue<T>.
  *
- *  @author Xinmeng Zhang, modified Prof. Gust's code
+ *  @author Xinmeng Zhang
  */
 package edu.northeastern.cs_5004;
 
