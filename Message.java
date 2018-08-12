@@ -1,7 +1,7 @@
 /**
  * Message.java
  * 
- * @author Xinmeng Zhang, modified Prof. Gust's code
+ * @author Xinmeng Zhang
  */
 package edu.northeastern.cs_5004;
 
@@ -9,8 +9,6 @@ package edu.northeastern.cs_5004;
  * This class implements a Message with optional message string that can
  * be offered on a MesssageQueue.
  *
- * @author philip gust
- * @since 2017-05-05
  */
 public class Message {
 	/**
