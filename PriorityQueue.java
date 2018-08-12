@@ -2,7 +2,7 @@
  * PriorityQueue.java
  * This file contains the declarations for class template PriorityQueue<T>.
  *
- *  @author Xinmeng Zhang, modified Prof. Gust's code
+ *  @author Xinmeng Zhang
  */
 package edu.northeastern.cs_5004;
 
